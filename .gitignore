@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+# .env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build and production
+dist/
+build/
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# TypeScript
+*.tsbuildinfo
+
+# PM2 logs
+pids
+*.pid
+*.seed
+
+# Mac specific
+.AppleDouble
+.LSOverride
